@@ -1021,7 +1021,6 @@ cta {
 
 .next {
   right: 0;
-  border-radius: 3px 0 0 3px;
 }
 
 /* Fading animation */
@@ -1105,10 +1104,6 @@ cta {
 
   .md\:w-1\/2 {
     width: 50%;
-  }
-
-  .md\:w-1\/3 {
-    width: 33.333333%;
   }
 
   .md\:max-w-xl {
