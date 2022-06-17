@@ -6,7 +6,7 @@ body{
   background-image: url("../images/bg-tablet-pattern.svg");
   background-repeat: no-repeat;
   background-size: 800px;
-  background-position: 90% - 25%;
+  background-position: 90%-25%;
 }
 
 cta {

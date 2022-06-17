@@ -900,6 +900,11 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.text-darkBlue {
+  --tw-text-opacity: 1;
+  color: hsl(228 39% 23% / var(--tw-text-opacity));
+}
+
 .text-darkGrayishBlue {
   --tw-text-opacity: 1;
   color: hsl(227 12% 61% / var(--tw-text-opacity));
@@ -908,11 +913,6 @@ video {
 .text-brightRed {
   --tw-text-opacity: 1;
   color: hsl(12 88% 59% / var(--tw-text-opacity));
-}
-
-.text-darkBlue {
-  --tw-text-opacity: 1;
-  color: hsl(228 39% 23% / var(--tw-text-opacity));
 }
 
 .shadow-2xl {
@@ -925,7 +925,7 @@ body{
   background-image: url("../images/bg-tablet-pattern.svg");
   background-repeat: no-repeat;
   background-size: 800px;
-  background-position: 90% - 25%;
+  background-position: 90%-25%;
 }
 
 cta {
